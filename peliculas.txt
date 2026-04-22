@@ -5,3 +5,7 @@ saw 1
 spiderman 2
 starwars 3
 volver al futuro
+-------lo agregado para generar conflicto
+pacific rim
+space jam
+
